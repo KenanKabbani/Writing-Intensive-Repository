@@ -2,86 +2,86 @@ Source,"U.S. Bureau of Labor Statistics, Quarterly Census of Employment and Wage
 Period,Fourth Quarter(p),,,,,,,,,
 Industry,"Total, all industries",,,,,,,,,
 Area Name,Year,Quarter,No Of Establishments,Employment,One-Year Employment Gain/Loss (Percent),Average Weekly Wages,On-Year Weekly Wages Gain/Loss (Percent),Industry,FIPS,USPS
-Alcona County,2019,Fourth Quarter(p),193,1762,3.6,768,1.2,"Total, all industries",26001,MI
-Alger County,2019,Fourth Quarter(p),249,2327,1.2,848,1.9,"Total, all industries",26003,MI
-Allegan County,2019,Fourth Quarter(p),2450,39706,0.3,988,2.4,"Total, all industries",26005,MI
-Alpena County,2019,Fourth Quarter(p),819,11370,0.6,861,13.1,"Total, all industries",26007,MI
-Antrim County,2019,Fourth Quarter(p),590,5017,-1,698,3.7,"Total, all industries",26009,MI
-Arenac County,2019,Fourth Quarter(p),334,4258,-3.9,777,-1.9,"Total, all industries",26011,MI
-Baraga County,2019,Fourth Quarter(p),215,2914,3.2,879,4.3,"Total, all industries",26013,MI
-Barry County,2019,Fourth Quarter(p),952,12650,0.9,841,0.7,"Total, all industries",26015,MI
-Bay County,2019,Fourth Quarter(p),2135,34483,3,881,0.5,"Total, all industries",26017,MI
-Benzie County,2019,Fourth Quarter(p),481,4164,2.2,732,4.3,"Total, all industries",26019,MI
-Berrien County,2019,Fourth Quarter(p),3800,60321,0.4,963,-1.9,"Total, all industries",26021,MI
-Branch County,2019,Fourth Quarter(p),842,14378,1.9,860,2.3,"Total, all industries",26023,MI
-Calhoun County,2019,Fourth Quarter(p),2411,54282,-1.1,1033,3,"Total, all industries",26025,MI
-Cass County,2019,Fourth Quarter(p),826,9312,-0.1,846,4.8,"Total, all industries",26027,MI
-Charlevoix County,2019,Fourth Quarter(p),837,9979,-0.6,905,0.9,"Total, all industries",26029,MI
-Cheboygan County,2019,Fourth Quarter(p),809,5673,-1.1,731,5.3,"Total, all industries",26031,MI
-Chippewa County,2019,Fourth Quarter(p),825,12341,1.2,806,3.7,"Total, all industries",26033,MI
-Clare County,2019,Fourth Quarter(p),558,6406,-4.3,815,-0.6,"Total, all industries",26035,MI
-Clinton County,2019,Fourth Quarter(p),1336,16400,1.4,924,4.9,"Total, all industries",26037,MI
-Crawford County,2019,Fourth Quarter(p),286,4106,-0.3,845,0.1,"Total, all industries",26039,MI
-Delta County,2019,Fourth Quarter(p),1047,13775,1.1,807,0.9,"Total, all industries",26041,MI
-Dickinson County,2019,Fourth Quarter(p),849,13398,-4.4,977,2.2,"Total, all industries",26043,MI
-Eaton County,2019,Fourth Quarter(p),2027,42350,-0.5,1009,7.1,"Total, all industries",26045,MI
-Emmet County,2019,Fourth Quarter(p),1489,18290,3.4,878,6.2,"Total, all industries",26047,MI
-Genesee County,2019,Fourth Quarter(p),7280,139015,2,987,6.9,"Total, all industries",26049,MI
-Gladwin County,2019,Fourth Quarter(p),426,3931,-0.7,786,7.1,"Total, all industries",26051,MI
-Gogebic County,2019,Fourth Quarter(p),407,5423,-0.3,759,-2.1,"Total, all industries",26053,MI
-Grand Traverse County,2019,Fourth Quarter(p),3513,50278,1.4,945,2.8,"Total, all industries",26055,MI
-Gratiot County,2019,Fourth Quarter(p),738,12753,-2,977,8,"Total, all industries",26057,MI
-Hillsdale County,2019,Fourth Quarter(p),816,12640,-2.2,891,1,"Total, all industries",26059,MI
-Houghton County,2019,Fourth Quarter(p),893,11557,3.5,855,0.8,"Total, all industries",26061,MI
-Huron County,2019,Fourth Quarter(p),991,11040,-0.3,827,1.5,"Total, all industries",26063,MI
-Ingham County,2019,Fourth Quarter(p),6589,155558,2.1,1126,4.7,"Total, all industries",26065,MI
-Ionia County,2019,Fourth Quarter(p),1065,21748,7.1,734,-0.1,"Total, all industries",26067,MI
-Iosco County,2019,Fourth Quarter(p),597,7770,5.5,864,7.3,"Total, all industries",26069,MI
-Iron County,2019,Fourth Quarter(p),372,3663,-2.4,792,5.3,"Total, all industries",26071,MI
-Isabella County,2019,Fourth Quarter(p),1344,28472,-1.2,806,-0.4,"Total, all industries",26073,MI
-Jackson County,2019,Fourth Quarter(p),2837,57148,-0.4,1024,3.6,"Total, all industries",26075,MI
-Kalamazoo County,2019,Fourth Quarter(p),5486,121466,0.8,1052,1.9,"Total, all industries",26077,MI
-Kalkaska County,2019,Fourth Quarter(p),335,4090,-0.1,1055,1.9,"Total, all industries",26079,MI
-Kent County,2019,Fourth Quarter(p),16230,414045,1.1,1026,3.8,"Total, all industries",26081,MI
-Keweenaw County,2019,Fourth Quarter(p),77,367,16.1,584,7.7,"Total, all industries",26083,MI
-Lake County,2019,Fourth Quarter(p),162,1817,17.2,735,6.8,"Total, all industries",26085,MI
-Lapeer County,2019,Fourth Quarter(p),1637,20796,-2.6,827,1.8,"Total, all industries",26087,MI
-Leelanau County,2019,Fourth Quarter(p),747,6052,0.5,790,1.5,"Total, all industries",26089,MI
-Lenawee County,2019,Fourth Quarter(p),1865,25497,-5.8,860,-5.1,"Total, all industries",26091,MI
-Livingston County,2019,Fourth Quarter(p),4917,63474,2.6,953,3.1,"Total, all industries",26093,MI
-Luce County,2019,Fourth Quarter(p),190,1758,-4.7,805,8.8,"Total, all industries",26095,MI
-Mackinac County,2019,Fourth Quarter(p),473,3292,3.5,778,3.7,"Total, all industries",26097,MI
-Macomb County,2019,Fourth Quarter(p),19177,334132,0.7,1147,3.1,"Total, all industries",26099,MI
-Manistee County,2019,Fourth Quarter(p),581,6963,2.3,841,-0.2,"Total, all industries",26101,MI
-Marquette County,2019,Fourth Quarter(p),1645,26682,0.3,885,3.3,"Total, all industries",26103,MI
-Mason County,2019,Fourth Quarter(p),711,9997,-1.3,846,5.8,"Total, all industries",26105,MI
-Mecosta County,2019,Fourth Quarter(p),666,13600,0.7,793,-2.9,"Total, all industries",26107,MI
-Menominee County,2019,Fourth Quarter(p),474,7235,-0.9,750,-0.3,"Total, all industries",26109,MI
-Midland County,2019,Fourth Quarter(p),3584,37146,-1.5,1167,5.9,"Total, all industries",26111,MI
-Missaukee County,2019,Fourth Quarter(p),354,3419,1.8,781,6.8,"Total, all industries",26113,MI
-Monroe County,2019,Fourth Quarter(p),2352,39912,-1.3,992,1.3,"Total, all industries",26115,MI
-Montcalm County,2019,Fourth Quarter(p),1061,16255,1.5,821,0.2,"Total, all industries",26117,MI
-Montmorency County,2019,Fourth Quarter(p),203,1990,-1.3,721,1.8,"Total, all industries",26119,MI
-Muskegon County,2019,Fourth Quarter(p),3020,61731,-1.5,895,2.4,"Total, all industries",26121,MI
-Newaygo County,2019,Fourth Quarter(p),825,12150,3.8,810,-0.7,"Total, all industries",26123,MI
-Oakland County,2019,Fourth Quarter(p),43154,752992,1.2,1311,3.6,"Total, all industries",26125,MI
-Oceana County,2019,Fourth Quarter(p),589,6153,-0.3,768,-0.3,"Total, all industries",26127,MI
-Ogemaw County,2019,Fourth Quarter(p),552,5548,0,678,-5.8,"Total, all industries",26129,MI
-Ontonagon County,2019,Fourth Quarter(p),178,1303,10.4,603,-3.5,"Total, all industries",26131,MI
-Osceola County,2019,Fourth Quarter(p),466,7445,5.5,914,0.8,"Total, all industries",26133,MI
-Oscoda County,2019,Fourth Quarter(p),196,1494,4.8,696,3,"Total, all industries",26135,MI
-Otsego County,2019,Fourth Quarter(p),761,10103,0.7,849,5.6,"Total, all industries",26137,MI
-Ottawa County,2019,Fourth Quarter(p),6255,128646,2.2,1002,1.8,"Total, all industries",26139,MI
-Presque Isle County,2019,Fourth Quarter(p),335,2611,-0.2,782,2.5,"Total, all industries",26141,MI
-Roscommon County,2019,Fourth Quarter(p),565,5137,-0.7,695,5.6,"Total, all industries",26143,MI
-Saginaw County,2019,Fourth Quarter(p),4065,84873,0,943,1.8,"Total, all industries",26145,MI
-St. Clair County,2019,Fourth Quarter(p),3022,44674,1.4,942,2.7,"Total, all industries",26147,MI
-St. Joseph County,2019,Fourth Quarter(p),5062,23018,-5.9,778,7,"Total, all industries",26149,MI
-Sanilac County,2019,Fourth Quarter(p),877,10400,-7,767,4.1,"Total, all industries",26151,MI
-Schoolcraft County,2019,Fourth Quarter(p),224,2551,-5.2,879,4.6,"Total, all industries",26153,MI
-Shiawassee County,2019,Fourth Quarter(p),1159,15675,0.4,837,2.6,"Total, all industries",26155,MI
-Tuscola County,2019,Fourth Quarter(p),867,11828,3.9,848,0.2,"Total, all industries",26157,MI
-Van Buren County,2019,Fourth Quarter(p),1446,20989,2.9,857,-14.6,"Total, all industries",26159,MI
-Washtenaw County,2019,Fourth Quarter(p),9221,223992,2.6,1204,2.6,"Total, all industries",26161,MI
-Wayne County,2019,Fourth Quarter(p),35395,746070,1.5,1264,3.8,"Total, all industries",26163,MI
-Wexford County,2019,Fourth Quarter(p),851,14112,4,816,-0.4,"Total, all industries",26165,MI
+Alcona,2019,Fourth Quarter(p),193,1762,3.6,768,1.2,"Total, all industries",26001,MI
+Alger,2019,Fourth Quarter(p),249,2327,1.2,848,1.9,"Total, all industries",26003,MI
+Allegan,2019,Fourth Quarter(p),2450,39706,0.3,988,2.4,"Total, all industries",26005,MI
+Alpena,2019,Fourth Quarter(p),819,11370,0.6,861,13.1,"Total, all industries",26007,MI
+Antrim,2019,Fourth Quarter(p),590,5017,-1,698,3.7,"Total, all industries",26009,MI
+Arenac,2019,Fourth Quarter(p),334,4258,-3.9,777,-1.9,"Total, all industries",26011,MI
+Baraga,2019,Fourth Quarter(p),215,2914,3.2,879,4.3,"Total, all industries",26013,MI
+Barry,2019,Fourth Quarter(p),952,12650,0.9,841,0.7,"Total, all industries",26015,MI
+Bay,2019,Fourth Quarter(p),2135,34483,3,881,0.5,"Total, all industries",26017,MI
+Benzie,2019,Fourth Quarter(p),481,4164,2.2,732,4.3,"Total, all industries",26019,MI
+Berrien,2019,Fourth Quarter(p),3800,60321,0.4,963,-1.9,"Total, all industries",26021,MI
+Branch,2019,Fourth Quarter(p),842,14378,1.9,860,2.3,"Total, all industries",26023,MI
+Calhoun,2019,Fourth Quarter(p),2411,54282,-1.1,1033,3,"Total, all industries",26025,MI
+Cass,2019,Fourth Quarter(p),826,9312,-0.1,846,4.8,"Total, all industries",26027,MI
+Charlevoix,2019,Fourth Quarter(p),837,9979,-0.6,905,0.9,"Total, all industries",26029,MI
+Cheboygan,2019,Fourth Quarter(p),809,5673,-1.1,731,5.3,"Total, all industries",26031,MI
+Chippewa,2019,Fourth Quarter(p),825,12341,1.2,806,3.7,"Total, all industries",26033,MI
+Clare,2019,Fourth Quarter(p),558,6406,-4.3,815,-0.6,"Total, all industries",26035,MI
+Clinton,2019,Fourth Quarter(p),1336,16400,1.4,924,4.9,"Total, all industries",26037,MI
+Crawford,2019,Fourth Quarter(p),286,4106,-0.3,845,0.1,"Total, all industries",26039,MI
+Delta,2019,Fourth Quarter(p),1047,13775,1.1,807,0.9,"Total, all industries",26041,MI
+Dickinson,2019,Fourth Quarter(p),849,13398,-4.4,977,2.2,"Total, all industries",26043,MI
+Eaton,2019,Fourth Quarter(p),2027,42350,-0.5,1009,7.1,"Total, all industries",26045,MI
+Emmet,2019,Fourth Quarter(p),1489,18290,3.4,878,6.2,"Total, all industries",26047,MI
+Genesee,2019,Fourth Quarter(p),7280,139015,2,987,6.9,"Total, all industries",26049,MI
+Gladwin,2019,Fourth Quarter(p),426,3931,-0.7,786,7.1,"Total, all industries",26051,MI
+Gogebic,2019,Fourth Quarter(p),407,5423,-0.3,759,-2.1,"Total, all industries",26053,MI
+Grand Traverse,2019,Fourth Quarter(p),3513,50278,1.4,945,2.8,"Total, all industries",26055,MI
+Gratiot,2019,Fourth Quarter(p),738,12753,-2,977,8,"Total, all industries",26057,MI
+Hillsdale,2019,Fourth Quarter(p),816,12640,-2.2,891,1,"Total, all industries",26059,MI
+Houghton,2019,Fourth Quarter(p),893,11557,3.5,855,0.8,"Total, all industries",26061,MI
+Huron,2019,Fourth Quarter(p),991,11040,-0.3,827,1.5,"Total, all industries",26063,MI
+Ingham,2019,Fourth Quarter(p),6589,155558,2.1,1126,4.7,"Total, all industries",26065,MI
+Ionia,2019,Fourth Quarter(p),1065,21748,7.1,734,-0.1,"Total, all industries",26067,MI
+Iosco,2019,Fourth Quarter(p),597,7770,5.5,864,7.3,"Total, all industries",26069,MI
+Iron,2019,Fourth Quarter(p),372,3663,-2.4,792,5.3,"Total, all industries",26071,MI
+Isabella,2019,Fourth Quarter(p),1344,28472,-1.2,806,-0.4,"Total, all industries",26073,MI
+Jackson,2019,Fourth Quarter(p),2837,57148,-0.4,1024,3.6,"Total, all industries",26075,MI
+Kalamazoo,2019,Fourth Quarter(p),5486,121466,0.8,1052,1.9,"Total, all industries",26077,MI
+Kalkaska,2019,Fourth Quarter(p),335,4090,-0.1,1055,1.9,"Total, all industries",26079,MI
+Kent,2019,Fourth Quarter(p),16230,414045,1.1,1026,3.8,"Total, all industries",26081,MI
+Keweenaw,2019,Fourth Quarter(p),77,367,16.1,584,7.7,"Total, all industries",26083,MI
+Lake,2019,Fourth Quarter(p),162,1817,17.2,735,6.8,"Total, all industries",26085,MI
+Lapeer,2019,Fourth Quarter(p),1637,20796,-2.6,827,1.8,"Total, all industries",26087,MI
+Leelanau,2019,Fourth Quarter(p),747,6052,0.5,790,1.5,"Total, all industries",26089,MI
+Lenawee,2019,Fourth Quarter(p),1865,25497,-5.8,860,-5.1,"Total, all industries",26091,MI
+Livingston,2019,Fourth Quarter(p),4917,63474,2.6,953,3.1,"Total, all industries",26093,MI
+Luce,2019,Fourth Quarter(p),190,1758,-4.7,805,8.8,"Total, all industries",26095,MI
+Mackinac,2019,Fourth Quarter(p),473,3292,3.5,778,3.7,"Total, all industries",26097,MI
+Macomb,2019,Fourth Quarter(p),19177,334132,0.7,1147,3.1,"Total, all industries",26099,MI
+Manistee,2019,Fourth Quarter(p),581,6963,2.3,841,-0.2,"Total, all industries",26101,MI
+Marquette,2019,Fourth Quarter(p),1645,26682,0.3,885,3.3,"Total, all industries",26103,MI
+Mason,2019,Fourth Quarter(p),711,9997,-1.3,846,5.8,"Total, all industries",26105,MI
+Mecosta,2019,Fourth Quarter(p),666,13600,0.7,793,-2.9,"Total, all industries",26107,MI
+Menominee,2019,Fourth Quarter(p),474,7235,-0.9,750,-0.3,"Total, all industries",26109,MI
+Midland,2019,Fourth Quarter(p),3584,37146,-1.5,1167,5.9,"Total, all industries",26111,MI
+Missaukee,2019,Fourth Quarter(p),354,3419,1.8,781,6.8,"Total, all industries",26113,MI
+Monroe,2019,Fourth Quarter(p),2352,39912,-1.3,992,1.3,"Total, all industries",26115,MI
+Montcalm,2019,Fourth Quarter(p),1061,16255,1.5,821,0.2,"Total, all industries",26117,MI
+Montmorency,2019,Fourth Quarter(p),203,1990,-1.3,721,1.8,"Total, all industries",26119,MI
+Muskegon,2019,Fourth Quarter(p),3020,61731,-1.5,895,2.4,"Total, all industries",26121,MI
+Newaygo,2019,Fourth Quarter(p),825,12150,3.8,810,-0.7,"Total, all industries",26123,MI
+Oakland,2019,Fourth Quarter(p),43154,752992,1.2,1311,3.6,"Total, all industries",26125,MI
+Oceana,2019,Fourth Quarter(p),589,6153,-0.3,768,-0.3,"Total, all industries",26127,MI
+Ogemaw,2019,Fourth Quarter(p),552,5548,0,678,-5.8,"Total, all industries",26129,MI
+Ontonagon,2019,Fourth Quarter(p),178,1303,10.4,603,-3.5,"Total, all industries",26131,MI
+Osceola,2019,Fourth Quarter(p),466,7445,5.5,914,0.8,"Total, all industries",26133,MI
+Oscoda,2019,Fourth Quarter(p),196,1494,4.8,696,3,"Total, all industries",26135,MI
+Otsego,2019,Fourth Quarter(p),761,10103,0.7,849,5.6,"Total, all industries",26137,MI
+Ottawa,2019,Fourth Quarter(p),6255,128646,2.2,1002,1.8,"Total, all industries",26139,MI
+Presque Isle,2019,Fourth Quarter(p),335,2611,-0.2,782,2.5,"Total, all industries",26141,MI
+Roscommon,2019,Fourth Quarter(p),565,5137,-0.7,695,5.6,"Total, all industries",26143,MI
+Saginaw,2019,Fourth Quarter(p),4065,84873,0,943,1.8,"Total, all industries",26145,MI
+St. Clair,2019,Fourth Quarter(p),3022,44674,1.4,942,2.7,"Total, all industries",26147,MI
+St. Joseph,2019,Fourth Quarter(p),5062,23018,-5.9,778,7,"Total, all industries",26149,MI
+Sanilac,2019,Fourth Quarter(p),877,10400,-7,767,4.1,"Total, all industries",26151,MI
+Schoolcraft,2019,Fourth Quarter(p),224,2551,-5.2,879,4.6,"Total, all industries",26153,MI
+Shiawassee,2019,Fourth Quarter(p),1159,15675,0.4,837,2.6,"Total, all industries",26155,MI
+Tuscola,2019,Fourth Quarter(p),867,11828,3.9,848,0.2,"Total, all industries",26157,MI
+Van Buren,2019,Fourth Quarter(p),1446,20989,2.9,857,-14.6,"Total, all industries",26159,MI
+Washtenaw,2019,Fourth Quarter(p),9221,223992,2.6,1204,2.6,"Total, all industries",26161,MI
+Wayne ,2019,Fourth Quarter(p),35395,746070,1.5,1264,3.8,"Total, all industries",26163,MI
+Wexford,2019,Fourth Quarter(p),851,14112,4,816,-0.4,"Total, all industries",26165,MI
