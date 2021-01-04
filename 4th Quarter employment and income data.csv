@@ -1,7 +1,7 @@
 Source,"U.S. Bureau of Labor Statistics, Quarterly Census of Employment and Wages",,,,,,,,,
 Period,Fourth Quarter(p),,,,,,,,,
 Industry,"Total, all industries",,,,,,,,,
-Area Name,Year,Quarter,No Of Establishments,Employment,One-Year Employment Gain/Loss (Percent),Average Weekly Wages,On-Year Weekly Wages Gain/Loss (Percent),Industry,FIPS,USPS
+COUNTY,Year,Quarter,No Of Establishments,Employment,One-Year Employment Gain/Loss (Percent),Average Weekly Wages,On-Year Weekly Wages Gain/Loss (Percent),Industry,FIPS,USPS
 Alcona,2019,Fourth Quarter(p),193,1762,3.6,768,1.2,"Total, all industries",26001,MI
 Alger,2019,Fourth Quarter(p),249,2327,1.2,848,1.9,"Total, all industries",26003,MI
 Allegan,2019,Fourth Quarter(p),2450,39706,0.3,988,2.4,"Total, all industries",26005,MI
